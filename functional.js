@@ -1,3 +1,7 @@
+// functional programming tends to increase the reusablity of the code
+// making fonctions pure and as predictable as possible 
+// this can be done by passing all data that function is using passing as an argument
+
 const REQUIRED = 'REQUIRED';
 const MIN_LENGTH = 'MIN_LENGTH';
 

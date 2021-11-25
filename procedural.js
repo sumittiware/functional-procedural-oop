@@ -1,3 +1,6 @@
+// step by step execution of the task that are needed to be performed
+
+
 const form = document.getElementById('user-input');
 
 function signupHandler(event) {
